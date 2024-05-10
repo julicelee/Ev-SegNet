@@ -54,3 +54,8 @@ python train_eager.py --epochs 500 --dataset path_to_dataset  --model_path path_
 
 Where [path_to_dataset] is the path to the downloaded dataset (uncompressed) and [path_to_model] is the path where the weights are going to be saved
 
+Dataset: DDD17
+Test samples: 3890
+Test accuracy: 89.76%
+Test Miou: 54.81%
+
